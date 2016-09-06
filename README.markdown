@@ -1,10 +1,10 @@
-# Fierralin's own QtCreator configuration
+### Fierralin's own QtCreator configuration
 
-## Windows
+#### Windows
 
 Dir: ~/AppData/Roaming/QtProject/qtcreator
 
-## UNIX
+#### UNIX
 
 Dir: [installation path]/share/qtcreator
 
