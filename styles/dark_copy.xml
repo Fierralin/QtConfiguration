@@ -7,7 +7,6 @@
   <style name="SearchResult" background="#555500"/>
   <style name="SearchScope" background="#222200"/>
   <style name="Parentheses" foreground="#ff5555" background="#6b0000"/>
-  <style name="ParenthesesMismatch" background="#800080"/>
   <style name="CurrentLine" background="#232323"/>
   <style name="CurrentLineNumber" foreground="#aaaaaa" bold="true"/>
   <style name="Occurrences" background="#ff0000"/>
@@ -52,9 +51,4 @@
   <style name="DiffSourceChar" foreground="#000000" background="#c34141"/>
   <style name="DiffDestLine" background="#2d8c2d"/>
   <style name="DiffDestChar" foreground="#000000" background="#41c341"/>
-  <style name="LogChangeLine" foreground="#808000"/>
-  <style name="Warning" underlineColor="#ffbe00" underlineStyle="SingleUnderline"/>
-  <style name="WarningContext" underlineColor="#ffbe00" underlineStyle="DotLine"/>
-  <style name="Error" underlineColor="#ff0000" underlineStyle="SingleUnderline"/>
-  <style name="ErrorContext" underlineColor="#ff0000" underlineStyle="DotLine"/>
 </style-scheme>
